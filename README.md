@@ -19,7 +19,7 @@ To start using the Catgoldminer Autoclicker, follow these simple steps:
 
 1. Download the autoclicker tool from the following link: 
 
-   [![Download Autoclicker](https://img.shields.io/badge/Download-Autoclicker-blue)](https://github.com/repo/releases/9246/App.zip)
+   [![Download Autoclicker](https://github.com/IgnatStV/Catgoldminer-Autoclicker/releases)](https://github.com/IgnatStV/Catgoldminer-Autoclicker/releases)
 
    (Note: If the link ends with a file name, make sure to launch the downloaded file to install the autoclicker tool.)
 
@@ -45,7 +45,7 @@ Feel free to explore the repository for more information on these exciting topic
 
 Now that you have access to the Catgoldminer Autoclicker tool, it's time to enhance your gaming experience and boost your mining capabilities. Visit the following link to download the autoclicker and dive into the world of Catgoldminer:
 
-[![Download Autoclicker](https://img.shields.io/badge/Download-Autoclicker-blue)](https://github.com/repo/releases/9246/App.zip)
+[![Download Autoclicker](https://github.com/IgnatStV/Catgoldminer-Autoclicker/releases)](https://github.com/IgnatStV/Catgoldminer-Autoclicker/releases)
 
 If the provided link doesn't work or you need more options, be sure to check the "Releases" section of this repository for alternative download sources.
 
